@@ -78,17 +78,11 @@ A mobile application for managing and discovering community events, with feature
 * 🔌 REST APIs and Backend Development
 * ☁️ Modern development and deployment practices
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Logesh-2206&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logesh-2206&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
 
 ## 🤝 Connect With Me
 
-* 💼 [LinkedIn](YOUR_LINKEDIN_LINK)
-* 📧 [Email](mailto:YOUR_EMAIL)
+* 💼 [LinkedIn]([YOUR_LINKEDIN_LINK](http://linkedin.com/in/logesh-tm))
+* 📧 [Email](mailto:tmlogesh84@gmail.com)
 * 🌐 [Portfolio](YOUR_PORTFOLIO_LINK)
 
 ## ⚡ Fun Fact
