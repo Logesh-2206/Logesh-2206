@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-6A4BBC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="http://linkedin.com/in/logesh-tm">
-    <img src="https://img.shields.io/badge/GitHub-6A4BBC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-6A4BBC?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -202,7 +202,7 @@ A web project focused on form validation and structured user input.
 
 <p>
   💼 <strong>LinkedIn:</strong>
-  <em>[Add your LinkedIn URL](http://linkedin.com/in/logesh-tm)</em>
+  <em>http://linkedin.com/in/logesh-tm</em>
 </p>
 
 <p>
