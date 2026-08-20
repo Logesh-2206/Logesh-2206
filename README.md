@@ -13,7 +13,7 @@
   <a href="mailto:tmlogesh84@gmail.com">
     <img src="https://img.shields.io/badge/Email-6A4BBC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/Logesh-2206">
+  <a href="http://linkedin.com/in/logesh-tm">
     <img src="https://img.shields.io/badge/GitHub-6A4BBC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
@@ -190,29 +190,6 @@ A web project focused on form validation and structured user input.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Logesh-2206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logesh-2206&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Logesh-2206&theme=github-compact&hide_border=true"
-    width="95%"
-  />
-</p>
 
 ---
 
@@ -225,7 +202,7 @@ A web project focused on form validation and structured user input.
 
 <p>
   💼 <strong>LinkedIn:</strong>
-  <em>Add your LinkedIn URL</em>
+  <em>[Add your LinkedIn URL](http://linkedin.com/in/logesh-tm)</em>
 </p>
 
 <p>
