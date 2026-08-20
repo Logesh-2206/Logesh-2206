@@ -81,9 +81,9 @@ A mobile application for managing and discovering community events, with feature
 
 ## 🤝 Connect With Me
 
-* 💼 [LinkedIn]([YOUR_LINKEDIN_LINK](http://linkedin.com/in/logesh-tm))
+* 💼 [LinkedIn](http://linkedin.com/in/logesh-tm)
 * 📧 [Email](mailto:tmlogesh84@gmail.com)
-* 🌐 [Portfolio](YOUR_PORTFOLIO_LINK)
+* 🌐 [Portfolio](https://github.com/Logesh-2206/portfolio1)
 
 ## ⚡ Fun Fact
 
