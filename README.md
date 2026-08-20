@@ -1,90 +1,145 @@
 # 👋 Hi, I'm Logesh
 
-🎓 Engineering student passionate about **Software Development, AI/ML, and Full-Stack Development**.
-💻 I enjoy building practical applications and exploring how AI can solve real-world problems.
-🚀 Currently focused on strengthening my **DSA, development, and AI/ML skills**.
+### Engineering Student | Software Development | AI/ML | Full-Stack Development
+
+Building practical projects. Learning continuously. Solving real-world problems with technology.
+
+---
 
 ## 🚀 About Me
 
 * 🎓 Engineering student
-* 💻 Interested in Software Development and AI/ML
-* 🤖 Exploring LLMs, RAG, and Machine Learning
-* 🛠️ Building practical projects to improve my development skills
-* 🧠 Continuously improving problem-solving and DSA
-* 🌱 Open to software development and AI/ML internship opportunities
+* 💻 Interested in Software Development
+* 🤖 Exploring AI/ML
+* 🧠 Improving Data Structures & Algorithms
+* 🛠️ Building practical projects
+* 🌱 Continuously learning modern technologies
+
+---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6A5ACD?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-6A5ACD?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6A5ACD?style=flat-square\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-6A5ACD?style=flat-square\&logo=typescript\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-6A5ACD?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-6A5ACD?style=flat-square\&logo=css3\&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-6A5ACD?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-6A5ACD?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6A5ACD?style=flat-square\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-6A5ACD?style=flat-square\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-6A5ACD?style=flat-square\&logo=react\&logoColor=white)
 
-### ⚙️ Backend
+### AI / ML
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
+![Python](https://img.shields.io/badge/Python-6A5ACD?style=flat-square\&logo=python\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6A5ACD?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-6A5ACD?style=flat-square\&logo=python\&logoColor=white)
 
-### 🗄️ Databases
+### Tools
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6A5ACD?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6A5ACD?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-6A5ACD?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 
-### 🤖 AI / ML
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
-![LLM](https://img.shields.io/badge/LLM-412991?style=flat)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+---
 
 ## 📌 Featured Projects
 
-### 📝 Smart Notes Flutter App
-
-An AI-powered notes application focused on extracting text from images and generating concise summaries to make studying and note management easier.
-
-**Tech:** Flutter • Dart • OCR • AI/NLP
-
-🔗 [View Repository](YOUR_REPOSITORY_LINK)
-
 ### 📅 Community Event Calendar
 
-A mobile application for managing and discovering community events, with features such as event creation, calendar views, user profiles, and notifications.
+**TypeScript**
 
-**Tech:** React Native • Expo • FastAPI • MongoDB
+A community-focused event calendar project designed to organize and present events through a modern web application.
 
-🔗 [View Repository](YOUR_REPOSITORY_LINK)
+**Repository:**
+[![View Repository](https://img.shields.io/badge/View%20Repository-6A5ACD?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Logesh-2206/community-event-calendar)
+
+---
+
+### 🤖 Recommendation System
+
+**Python**
+
+A Python-based recommendation system project focused on exploring recommendation-system concepts and practical implementation.
+
+**Repository:**
+[![View Repository](https://img.shields.io/badge/View%20Repository-6A5ACD?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Logesh-2206/Recommendation-System)
+
+---
+
+### 🌐 Portfolio
+
+**HTML**
+
+A personal portfolio website project showcasing my development work and projects.
+
+**Repository:**
+[![View Repository](https://img.shields.io/badge/View%20Repository-6A5ACD?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Logesh-2206/portfolio1)
+
+---
+
+### 📝 Form Validation
+
+**HTML**
+
+A web project focused on implementing form validation and creating a structured user-input experience.
+
+**Repository:**
+[![View Repository](https://img.shields.io/badge/View%20Repository-6A5ACD?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Logesh-2206/formvalidation1)
+
+---
 
 ## 📚 Currently Learning
 
-* 🧩 Data Structures & Algorithms
-* 🤖 Machine Learning & AI
-* 🧠 LLMs and Retrieval-Augmented Generation
+* 🧠 Data Structures & Algorithms
+* 💻 Software Development
+* 🤖 AI/ML
+* 🔗 REST APIs
 * 🌐 Full-Stack Development
-* 🔌 REST APIs and Backend Development
-* ☁️ Modern development and deployment practices
+* ⚙️ Modern Development Practices
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Logesh-2206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logesh-2206&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Logesh-2206&theme=github-compact&hide_border=true" width="95%" />
+</p>
+
+---
 
 ## 🤝 Connect With Me
 
-* 💼 [LinkedIn](http://linkedin.com/in/logesh-tm)
-* 📧 [Email](mailto:tmlogesh84@gmail.com)
-* 🌐 [Portfolio](https://github.com/Logesh-2206/portfolio1)
+📧 **Email:** [tmlogesh84@gmail.com](mailto:tmlogesh84@gmail.com)
+
+💼 **LinkedIn:** [Add your LinkedIn URL](http://linkedin.com/in/logesh-tm)
+
+🌐 **Portfolio:** [View Portfolio](https://github.com/Logesh-2206/portfolio1)
+
+---
 
 ## ⚡ Fun Fact
 
-I enjoy turning ideas into practical projects and learning new technologies by building them. 🚀
+> I enjoy turning ideas into practical projects and learning something new with every build.
+
+---
+
+<p align="center">
+  <sub>Building • Learning • Improving</sub>
+</p>
